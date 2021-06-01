@@ -11,7 +11,7 @@
     [
         'telegram'  =>
         [
-            'token' =>  "1713395477:AAF_7M4NAQU2CTrOrFCUHsOLSvPfq3yQHWk"
+            'token' =>  "TOKE NYA DISINI EH TOKEN"
         ]
     ];
     
